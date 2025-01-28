@@ -3,10 +3,9 @@
 /*
     This is demonstration code that goes along with my article "On Degeneration of Array Types in C"
     https://thepottshouse.org/paul/portfolio/On_Degeneration_of_Array_Types_in_C.html
-
-    It is not really designed to do much that is visible when it is run. Some parts don't compile,
-    and this is deliberate. I have provided it so that readers can follow along as they read the
-    original article and experiment with it.
+    
+    I have provided it solely so that readers can follow along as they read the original article, step
+    through it, and experiment with it.
 
     Steps for building and running this under your computer's debugger will vary, depending on your
     operating system and toolchain.
